@@ -73,4 +73,4 @@ This section covers customer booking workflows, service selection, multi-service
 - iOS
 
 ## Test Documentation
-Refer to the test case document in this folder for detailed booking, multi-service selection, and order details test scenarios.
+[View Booking and Multi-Service Cart Test Cases](./06-Booking-and-Multi-Service-Cart-Test-Cases-Public.pdf)
