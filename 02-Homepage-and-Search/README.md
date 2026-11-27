@@ -62,6 +62,7 @@ This section covers functional and UI testing of the Nnakki homepage, homepage n
 - Android
 - iOS
 
-## Test Documentation
-Refer to the test case document in this folder for detailed test scenarios, preconditions, test steps, expected results, actual results, severity, and platform-wise execution status.
+  ## Test Documentation
+
+[View Homepage and Search Test Cases](./02-Homepage-and-Search-Test-Cases-Public.pdf)
 
