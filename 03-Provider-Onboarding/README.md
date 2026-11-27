@@ -57,4 +57,4 @@ This section covers provider registration and onboarding workflows, including pe
 - iOS
 
 ## Test Documentation
-Refer to the test case document in this folder for detailed provider onboarding scenarios and execution results.
+[View Provider Onboarding Test Cases](./03-Provider-Onboarding-Test-Cases-Public.pdf)
