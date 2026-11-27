@@ -33,8 +33,11 @@ The PDF in this folder contains the detailed test cases, including:
 - Android
 - iOS
 
-## Document
-`01-Authentication-and-Account-Test-Cases-Public.pdf`
+## Test Case Documentation
+
+You can view the complete test cases in the PDF below:
+
+📄 [View Authentication and Account Test Cases](./01-Authentication-and-Account-Test-Cases-Public.pdf)
 
 ## Purpose
 To validate authentication and account-related workflows and ensure that users can access and manage their accounts as expected.
