@@ -1,21 +1,40 @@
+# Authentication and Account – Test Cases
 
-# Authentication and Account Testing
+## Overview
+This section contains manual QA test cases covering authentication and account-related functionality of the Nnakki platform.
 
-## Scope
-This section covers authentication and account-related testing for the Nnakki application.
-
-## Modules Covered
-- Signup
-- Login
-- Personal Details
-- Contact Details
-- Password Settings
+## Scope of Testing
+- User login functionality
+- Email and password validation
+- Password visibility and masking
+- Account registration and signup
+- Personal and account information
+- Account settings and profile-related details
 
 ## Test Coverage
-- Positive Functional Testing
-- Negative Functional Testing
-- UI/UX Testing
-- Cross-platform Execution (Windows, Android, iOS)
+The test cases cover positive, negative, functional, and UI-related scenarios to verify expected behaviour and identify potential issues across supported platforms.
 
-## Test Documentation
-Refer to the PDF in this folder for detailed test cases.
+## Test Case Documentation
+The PDF in this folder contains the detailed test cases, including:
+- Test Case ID
+- Module Name
+- Test Scenario
+- Test Case Type
+- Pre-conditions
+- Test Steps
+- Test Data
+- Expected Result
+- Severity
+- Actual Result
+- Platform-wise execution status
+
+## Platforms
+- Windows
+- Android
+- iOS
+
+## Document
+`01-Authentication-and-Account-Test-Cases-Public.pdf`
+
+## Purpose
+To validate authentication and account-related workflows and ensure that users can access and manage their accounts as expected.
