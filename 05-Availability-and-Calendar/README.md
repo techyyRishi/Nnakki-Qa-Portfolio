@@ -77,4 +77,4 @@ This section covers provider availability configuration, calendar behaviour, boo
 - iOS
 
 ## Test Documentation
-Refer to the test case document in this folder for detailed availability, calendar, scheduling, and booking slot test scenarios.
+[View Availability and Calendar Test Cases](./05-Availability-and-Calendar-Test-Cases-Public.pdf)
