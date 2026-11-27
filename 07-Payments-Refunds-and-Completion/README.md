@@ -70,4 +70,4 @@ This section covers payment-related workflows, booking transactions, payment hol
 - iOS
 
 ## Test Documentation
-Refer to the test case document in this folder for detailed payment, transaction, refund, wallet, and booking completion scenarios.
+[View Payments, Refunds and Completion Test Cases](./07-Payments-Refunds-and-Completion-Test-Cases-Public.pdf)
