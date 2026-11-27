@@ -50,4 +50,4 @@ This section covers provider listing management workflows, including listing cre
 - iOS
 
 ## Test Documentation
-Refer to the test case document in this folder for detailed listing management test scenarios and execution results.
+[View Listing Management Test Cases](./04-Listing-Management-Test-Cases-Public.pdf)
